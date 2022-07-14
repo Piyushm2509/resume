@@ -67,7 +67,7 @@
         {
             "institution": "Indian Institute of Information Technology,Kota",
             "area": "Engineering",
-            "studyType": "Bachelor Of Technology",
+            "studyType": "B.Tech",
             "startDate": "",
             "endDate": "",
             "gpa": "",
@@ -108,7 +108,6 @@
                 "HTML",
                 "CSS",
                 "Javascript",
-                "Git",
                 "C/C++", 
             ]
         }
@@ -131,6 +130,7 @@
             "keywords": [
                 "Athletics",
                 "Cricket"
+                "Volleyball"
             ]
         }
     ]
