@@ -1,137 +1,138 @@
 {
-    "basics": {
-        "name": "Piyush Maheshwari",
-        "label": "Student",
-        "picture": "https://avatars.githubusercontent.com/u/96481826?s=400&u=704138ce8588ce926d2dc66ebaa97c36e218d926&v=4",
-        "email": "2021kucp1113@iiitkota.ac.in",
-        "phone": "+919602843157",
-        "website": "",
-        "summary": "I'm a student of Indian Institute of Information technology,Kota (India).",
-        "location": {
-            "address": "Tonk",
-            "postalCode": "304802",
-            "city": "Tonk",
-            "countryCode": " India",
-            "region": "Rajasthan"
-        },
-        "profiles": [
-            {
-                "network": "Twitter",
-                "username": "PiyushM38141073",
-                "url": "https://twitter.com/PiyushM38141073"
-            },
-            {
-                "network": "Github",
-                "username": "Piyushm2509",
-                "url": "https://github.com/Piyushm2509"
-            },
-            {
-                "network": "linkedin",
-                "username": "piyush maheshwari",
-                "url": "https://www.linkedin.com/in/piyush-maheshwari-660545226/"
-            },
-            {
-                "network": "Instagram",
-                "username": "piyushmaheshwari1729",
-                "url": "https://www.instagram.com/piyushmaheshwari1729/"
-            }
-        ]
-    },
-    "work": [
-        {
-            "company": "",
-            "position": "",
-            "website": "",
-            "startDate": "",
-            "endDate": "",
-            "summary": ""
-        },
-        {
-            "company": "",
-            "position": "",
-            "website": "",
-            "startDate": "",
-            "endDate": "",
-            "summary": ""
-        },
-        {
-            "company": "",
-            "position": "",
-            "website": "",
-            "startDate": "",
-            "endDate": "",
-            "summary": ""
-        }
-    ],
-    "education": [
-        {
-            "institution": "Indian Institute of Information Technology,Kota",
-            "area": "Engineering",
-            "studyType": "B.Tech",
-            "startDate": "",
-            "endDate": "",
-            "gpa": "",
-            "courses": [
-                "Computer Science & Engineering"
-            ]
-        }
-    ],
-    "awards": [
-        {
-            "title": "",
-            "awarder": "",
-            "date": ""
-        }
-    ],
-    "publications": [
-        {
-            "title": "",
-            "details": "",
-            "link": ""
-        },
-        {
-            "title": "",
-            "details": "",
-            "link": ""
-        },
-        {
-            "title": "",
-            "details": "",
-            "link": ""
-        }
-    ],
-    "skills": [
-        {
-            "name": "",
-            "level": "",
-            "keywords": [
-                "HTML",
-                "CSS",
-                "Javascript",
-                "C/C++", 
-            ]
-        }
-    ],
-    "languages": [
-        {
-            "language": "English",
-            "fluency": "Native speaker"
-        }
-    ],
-    "interests": [
-        {
-            "name": " ",
-            "keywords": [
-                " "
-            ]
-        },
-        {
-            "name": "Playing",
-            "keywords": [
-                "Athletics",
-                "Cricket"
-                "Volleyball"
-            ]
-        }
-    ]
+	"basics": {
+		"name": "Piyush Maheshwari",
+		"label": "Student",
+		"picture": "https://avatars.githubusercontent.com/u/96481826?s=400&u=704138ce8588ce926d2dc66ebaa97c36e218d926&v=4",
+		"email": "2021kucp1113@iiitkota.ac.in",
+		"phone": "+919602843157",
+		"website": "",
+		"summary": "I'm a student of Indian Institute of Information technology,Kota (India), persuing my B.tech in Computer Science & engineering.",
+		"location": {
+			"address": "Tonk",
+			"postalCode": "304802",
+			"city": "Tonk",
+			"countryCode": " India",
+			"region": "Rajasthan"
+		},
+		"profiles": [{
+				"network": "Twitter",
+				"username": "PiyushM38141073",
+				"url": "https://twitter.com/PiyushM38141073"
+			},
+			{
+				"network": "Github",
+				"username": "Piyushm2509",
+				"url": "https://github.com/Piyushm2509"
+			},
+			{
+				"network": "linkedin",
+				"username": "piyush maheshwari",
+				"url": "https://www.linkedin.com/in/piyush-maheshwari-660545226/"
+			},
+			{
+				"network": "Instagram",
+				"username": "piyushmaheshwari1729",
+				"url": "https://www.instagram.com/piyushmaheshwari1729/"
+			}
+		]
+	},
+	"work": [{
+			"company": "",
+			"position": "",
+			"website": "",
+			"startDate": "",
+			"endDate": "",
+			"summary": ""
+		},
+		{
+			"company": "",
+			"position": "",
+			"website": "",
+			"startDate": "",
+			"endDate": "",
+			"summary": ""
+		},
+		{
+			"company": "",
+			"position": "",
+			"website": "",
+			"startDate": "",
+			"endDate": "",
+			"summary": ""
+		}
+	],
+	"education": [{
+		"institution": "Indian Institute of Information Technology,Kota",
+		"area": "Engineering",
+		"studyType": "Bachelor Engineering",
+		"startDate": "",
+		"endDate": "",
+		"gpa": "",
+		"courses": [
+			"Computer Science & Engineering"
+		]
+	}],
+	"awards": [{
+		"title": "",
+		"awarder": "",
+		"date": ""
+	}],
+	"publications": [{
+			"title": "",
+			"details": "",
+			"link": ""
+		},
+		{
+			"title": "",
+			"details": "",
+			"link": ""
+		},
+		{
+			"title": "",
+			"details": "",
+			"link": ""
+		}
+	],
+	"skills": [{
+		"name": "",
+		"level": "",
+		"keywords": [
+			"HTML",
+			"CSS",
+			"Javascript",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"C/C++",
+			"",
+			"",
+			"",
+			""
+		]
+	}],
+	"languages": [{
+		"language": "English",
+		"fluency": "Native speaker"
+	}],
+	"interests": [{
+			"name": "",
+			"keywords": [
+				""
+			]
+		},
+		{
+			"name": "Playing",
+			"keywords": [
+				"Athletics",
+				"Volleyball",
+				"Cricket",
+				"Badminton"
+
+			]
+		}
+	]
 }
